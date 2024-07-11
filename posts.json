@@ -1,6 +1,6 @@
 [
   {
-    "postId": "liquideep-fairytale",
+    "id": "liquideep-fairytale",
     "title": "Discover the Magic of Liquideep’s Fairytale",
     "date": "June 25, 2024",
     "content": "Explore the enchanting world of Liquideep's Fairytale and immerse yourself in a musical journey like no other...",
@@ -9,7 +9,7 @@
     "tags": ["music", "Liquideep", "Fairytale", "R&B", "soul", "South Africa", "enchanting"]
   },
   {
-    "postId": "Aya-Shosholoza",
+    "id": "Aya-Shosholoza",
     "title": "Discover the Power of Aya Shosholoza",
     "date": "June 18, 2024",
     "content": "Experience the uplifting energy and cultural significance of Aya Shosholoza through TrackTrek's exploration...",
